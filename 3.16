@@ -44,7 +44,7 @@ public:
 };
 int main()
 {
-    healthprofileclass a("Chaudary","Umar","Male",1,12,2000,6.2,85);
+    healthprofileclass a("waleed","khan","Male",4,24,1999,5.11,80);
     a.output();
     return 0;
 }
