@@ -38,7 +38,7 @@ public:
     };
 int main()
 {
-    heartrates z("Chaudary","Umar",1,12,2000);
+    heartrates z("waleed","khan",4,24,1999);
     z.getpart();
     z.output();
     
